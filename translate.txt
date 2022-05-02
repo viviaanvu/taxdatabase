@@ -1,0 +1,5 @@
+German,german.txt
+Spanish,spanish.txt
+Klingon,klingon.txt
+French,french.txt
+Finnish,finnish.txt       //NEWLY ADDED FOR SPRINT 3

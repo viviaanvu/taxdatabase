@@ -1,0 +1,7 @@
+dog,chien
+cat,chat
+brother,frere
+sister,soeur
+friend,ami
+teacher,enseignant
+music,musique                 //NEWLY ADDED FOR SPRINT 3

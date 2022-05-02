@@ -1,0 +1,7 @@
+dog,perro
+cat,gato
+brother,hermano
+sister,hermana
+friend,amigo
+teacher,maestro
+music,musica         //NEWLY ADDED FOR SPRINT 3

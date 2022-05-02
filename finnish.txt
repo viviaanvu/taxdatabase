@@ -1,0 +1,6 @@
+dog,koira
+cat,kissa
+brother,veli
+sister,sisko
+teacher,opettaja
+music,musiikki              //NEWLY ADDED FOR SPRINT 3

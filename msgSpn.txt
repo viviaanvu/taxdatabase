@@ -1,0 +1,6 @@
+404,"Extraviado"
+703,"Servicio No Encontrado"
+805,"Idioma No Encontrado"
+813,"Palabra No Encontrada"
+903,"Año Fiscal No Encontrado"
+504,"Error Desconocido"

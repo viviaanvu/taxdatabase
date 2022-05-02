@@ -1,0 +1,5 @@
+
+Trans,translate.txt
+Tax, tax.txt
+Message, message.txt
+Multiply, multiply.txt

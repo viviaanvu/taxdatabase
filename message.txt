@@ -1,0 +1,3 @@
+MSGGER,msgGer.txt
+MSGSPN,msgSpn.txt
+MSGENG,msgEng.txt
